@@ -1,3 +1,5 @@
+> ⚠️ **Archived** — This plugin has been consolidated into [claude-env](https://github.com/EndeavorYen/claude-env/tree/main/plugins/misc). All future development happens there.
+
 # claude-misc
 
 Personal collection of miscellaneous Claude Code skills and commands.
